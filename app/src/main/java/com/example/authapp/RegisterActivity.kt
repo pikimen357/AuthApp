@@ -1,9 +1,9 @@
+package com.example.authapp
+
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.authapp.LoginActivity
-import com.example.authapp.MainActivity
 import com.example.authapp.databinding.ActivityRegisterBinding
 
 class RegisterActivity : AppCompatActivity() {
